@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h2{
+    text-align: center;
+    margin: 40px 0px 0px 0px ;
+    font-weight: bolder;
+}
+.btn{
+    display: block;
+    margin: 0 auto;
+    padding: 5px;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+.main{
+    height: 200px;
+    width: 500px;
+    border: 2px solid black;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 8px ;
+    
+    
+
+}
