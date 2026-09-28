@@ -35,7 +35,7 @@ This repository contains my JavaScript learning journey and practice programs. I
 
 ## Author
 
-**Vishal Thakur**
+**Vishal kushwah**
 
 ---
 
