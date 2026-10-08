@@ -1,147 +1,65 @@
 # JavaScript Basics
 
-This repository contains my JavaScript practice while learning the language from the basics.
+This repository contains my JavaScript practice while learning the fundamentals and building a stronger base for frontend development.
 
-I started with simple concepts and gradually moved towards functions, arrays, objects, ES6 features, DOM, and small practice projects.
+## Topics
 
-The main goal of this repository is to build a strong JavaScript foundation for web development and frontend development.
+* Variables & Data Types
+* Operators
+* Conditions & Loops
+* Functions
+* Arrays & Strings
+* Objects
+* Array Methods
+* Arrow Functions
+* Scope
+* `this` Keyword
+* Date & Time
+* Try-Catch
+* setTimeout
+* DOM Manipulation
 
-## What I Have Practiced
+## Mini Projects
 
-### 1. JavaScript Basics
-Basic concepts that are important before moving to advanced JavaScript.
+### Todo App
 
-- Variables
-- Data Types
-- Operators
-- Basic Input/Output
-- Type Conversion
+A simple Todo App built to practice DOM manipulation, events, and handling user input.
 
-### 2. Conditions & Loops
-Practiced how to make decisions and repeat tasks in JavaScript.
+[View Todo App](./todo%20app)
 
-- if / else
-- else if
-- for loop
-- while loop
-- do while loop
-- Practice problems using loops
+### Simon Game
 
-### 3. Functions
-Learned how to write reusable blocks of code.
+A memory-based game built using JavaScript and DOM concepts.
 
-- Function declaration
-- Parameters & arguments
-- Return values
-- Function expressions
-- Arrow functions
-- Function practice
+It helped me practice:
 
-### 4. Arrays
-Practiced storing and working with multiple values.
+* DOM manipulation
+* Event handling
+* JavaScript logic
+* Arrays
+* User interaction
 
-- Creating arrays
-- Accessing elements
-- Adding and removing elements
-- Array methods
-- Array practice questions
+[View Simon Game](./DOM/Simon-Game)
 
-### 5. Strings & String Methods
-Worked with strings and learned commonly used methods.
+## Practice
 
-- String operations
-- String methods
-- Searching and modifying strings
-- Practice problems
+I have added small programs and practice files for different JavaScript concepts so I can understand them by writing code, not just learning theory.
 
-### 6. Objects
-Started working with objects to store data in key-value pairs.
+## Tech
 
-- Creating objects
-- Accessing properties
-- Updating properties
-- Object methods
-- Object practice
+* JavaScript (ES6+)
+* HTML
+* CSS
+* Git & GitHub
 
-### 7. Array Methods
-Practiced some of the most useful JavaScript methods.
+## Goal
 
-- map()
-- filter()
-- reduce()
-- forEach()
+Build a strong JavaScript foundation and use these concepts to create better frontend projects.
 
-These methods are especially useful when working with data in frontend applications.
+I’ll keep adding more concepts and projects as I continue learning.
 
-### 8. Scope
-Learned how variable scope works in JavaScript.
+## Connect
 
-- Global scope
-- Function scope
-- Block scope
-- let
-- const
-- var
+GitHub: https://github.com/vishal-kushwah01
 
-### 9. `this` Keyword
-Practiced how `this` behaves in different situations, especially with objects and functions.
-
-### 10. DOM Basics
-Started connecting JavaScript with HTML and making webpages interactive.
-
-- Selecting elements
-- Changing content
-- Changing styles
-- Working with events
-- Basic DOM manipulation
-
-### 11. Date & Time
-Practiced working with JavaScript's Date object and basic date/time operations.
-
-### 12. Error Handling
-Learned how to handle errors without stopping the complete program.
-
-- try
-- catch
-- Error handling basics
-
-### 13. Asynchronous JavaScript
-Started learning how JavaScript handles tasks that do not finish immediately.
-
-- setTimeout()
-- Callback basics
-- Asynchronous behavior
-
-### 14. Todo App
-Built a small Todo App while practicing JavaScript and DOM concepts.
-
-This helped me understand how JavaScript can be used to create interactive web pages.
-
-## Repository Structure
-
-```text
-javascript_basics/
-│
-├── DOM/
-├── todo app/
-│
-├── Array.js
-├── Array2.js
-├── arrow.js
-├── date-time.js
-├── function.js
-├── loops.js
-├── methods.js
-├── num-maths.js
-├── object.js
-├── objectpractice.js
-├── practice.js
-├── practicearray.js
-├── practicefunction.js
-├── practiceloops.js
-├── practiceobj.js
-├── scope.js
-├── string.js
-├── this.js
-├── try&catch.js
-└── settimeout.js
+LinkedIn: https://www.linkedin.com/in/vishal-kushwah-68923a2b1
