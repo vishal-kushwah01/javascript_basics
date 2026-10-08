@@ -1,11 +1,11 @@
 # JavaScript Basics
 
-This repository contains my JavaScript practice while learning the fundamentals and building a stronger base for frontend development.
+My JavaScript practice repository where I’m learning the fundamentals and gradually moving towards DOM and asynchronous JavaScript.
 
 ## Topics
 
+* JavaScript Basics
 * Variables & Data Types
-* Operators
 * Conditions & Loops
 * Functions
 * Arrays & Strings
@@ -15,23 +15,26 @@ This repository contains my JavaScript practice while learning the fundamentals 
 * Scope
 * `this` Keyword
 * Date & Time
-* Try-Catch
-* setTimeout
+* Error Handling
 * DOM Manipulation
+* Call Stack
+* Callback & Callback Hell
+* Promises
+* setTimeout
 
 ## Mini Projects
 
 ### Todo App
 
-A simple Todo App built to practice DOM manipulation, events, and handling user input.
+A simple Todo App built while practicing JavaScript, DOM manipulation, events and user interaction.
 
-[View Todo App](./todo%20app)
+[View Project](./todo%20app)
 
 ### Simon Game
 
-A memory-based game built using JavaScript and DOM concepts.
+A memory-based game where the player follows the sequence of colors and tries to remember the pattern.
 
-It helped me practice:
+This project helped me practice:
 
 * DOM manipulation
 * Event handling
@@ -39,24 +42,24 @@ It helped me practice:
 * Arrays
 * User interaction
 
-[View Simon Game](./DOM/Simon-Game)
+[View Project](./DOM/Simon-Game)
 
-## Practice
+## What I'm Practicing
 
-I have added small programs and practice files for different JavaScript concepts so I can understand them by writing code, not just learning theory.
+I’m trying to understand JavaScript by writing code and solving small problems instead of only learning the theory.
+
+The repository will keep growing as I learn more concepts and build more small projects.
 
 ## Tech
 
-* JavaScript (ES6+)
+* JavaScript
 * HTML
 * CSS
 * Git & GitHub
 
 ## Goal
 
-Build a strong JavaScript foundation and use these concepts to create better frontend projects.
-
-I’ll keep adding more concepts and projects as I continue learning.
+Build a strong JavaScript foundation and use it in frontend projects.
 
 ## Connect
 
